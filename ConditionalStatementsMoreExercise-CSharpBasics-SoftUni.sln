@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sleepy Tom Cat", "02. S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Harvest", "03. Harvest\03. Harvest.csproj", "{8A48048E-5B67-49AF-9929-49A0B2A925C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Transport Price", "04. Transport Price\04. Transport Price.csproj", "{AD1DE9D0-EE49-412E-BFE9-5F0FA107A6E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A48048E-5B67-49AF-9929-49A0B2A925C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A48048E-5B67-49AF-9929-49A0B2A925C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A48048E-5B67-49AF-9929-49A0B2A925C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1DE9D0-EE49-412E-BFE9-5F0FA107A6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1DE9D0-EE49-412E-BFE9-5F0FA107A6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1DE9D0-EE49-412E-BFE9-5F0FA107A6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1DE9D0-EE49-412E-BFE9-5F0FA107A6E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
